@@ -2,20 +2,18 @@ BEGIN:VCARD
 VERSION:3.0
 N:Patel;Harshal;;;
 FN:Harshal Patel
-ORG:
+ORG:Howmet Aerospace
 ADR;TYPE=WORK:
-TITLE:Manufacturing Engineer @ Howmet Aerospace · 
+TITLE:Quality Engineer
 TEL;TYPE=CELL:7143815666
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
-EMAIL;TYPE=WORK:hbousd@gmail.com
+EMAIL;TYPE=HOME:hbousd@gmail.com
 URL;TYPE=Digital Business Card:https://harshal.info
 URL:
 URL;TYPE=Instagram:https://instagram.com/harshal_p_
 URL;TYPE=LinkedIn:https://linkedin.com/in/harpat/
-URL;TYPE=Twitter:https://twitter.com/Harshal_P_
-URL;TYPE=Twitch:https://twitch.tv/bubby737
 URL;TYPE=Spotify:https://open.spotify.com/user/bubby747
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
